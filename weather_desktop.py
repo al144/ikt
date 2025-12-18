@@ -1,7 +1,4 @@
-"""
-Időjárás Előrejelző Asztali Alkalmazás
-Modern, professzionális megjelenésű desktop alkalmazás WeatherAPI használatával
-"""
+
 
 import tkinter as tk
 from tkinter import ttk, messagebox
